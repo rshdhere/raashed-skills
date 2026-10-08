@@ -13,7 +13,7 @@ Installs every skill in raashed's workflow in one go.
 2. Run the installer from the repo root of the current project:
 
    ```bash
-   curl -fsSL https://raw.githubusercontent.com/rshdhere/raashed-skills/main/install.sh | bash
+   curl -fsSL skills.raashed.com | bash
    ```
 
    For a global install append `-s -- -g` to `bash`.

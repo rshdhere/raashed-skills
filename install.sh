@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Install every skill in raashed's workflow into the current project.
-#   curl -fsSL https://raw.githubusercontent.com/rshdhere/raashed-skills/main/install.sh | bash
+#   curl -fsSL skills.raashed.com | bash
 # Pass -g to install globally instead:  ... | bash -s -- -g
 set -euo pipefail
 

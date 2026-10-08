@@ -7,13 +7,13 @@ The agent skills I use in my day-to-day workflow with Claude Code, bundled behin
 Everything, into the current project:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/rshdhere/raashed-skills/main/install.sh | bash
+curl -fsSL skills.raashed.com | bash
 ```
 
 Globally (user-level) instead:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/rshdhere/raashed-skills/main/install.sh | bash -s -- -g
+curl -fsSL skills.raashed.com | bash -s -- -g
 ```
 
 Or install just the `raashed-skills` meta skill, then ask your agent to run `/raashed-skills`. It pulls in the rest:
