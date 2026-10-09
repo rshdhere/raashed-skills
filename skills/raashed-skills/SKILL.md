@@ -1,6 +1,6 @@
 ---
 name: raashed-skills
-description: Install raashed's full set of agent skills (code review, TDD, bug diagnosis, grilling, specs/tickets, commit messages, frontend design, React/Turborepo) into the current project. Use when the user says "raashed-skills", "install my skills", "set up my skills", or starts a new project and wants their usual workflow skills.
+description: Install raashed's full set of agent skills (repo setup, code review, TDD, bug diagnosis, grilling, specs/tickets, commit messages, frontend design, React/Turborepo) into the current project. Use when the user says "raashed-skills", "install my skills", "set up my skills", or starts a new project and wants their usual workflow skills.
 ---
 
 # raashed-skills
@@ -23,7 +23,7 @@ Installs every skill in raashed's workflow in one go.
 
 | Skill | Source |
 | --- | --- |
-| code-review, diagnosing-bugs, grill-with-docs, grilling, implement, tdd, to-spec, to-tickets | mattpocock/skills |
+| code-review, diagnosing-bugs, grill-with-docs, grilling, implement, setup-matt-pocock-skills, tdd, to-spec, to-tickets | mattpocock/skills |
 | frontend-design | anthropics/skills |
 | vercel-react-best-practices, web-design-guidelines | vercel-labs/agent-skills |
 | turborepo | vercel/turborepo |

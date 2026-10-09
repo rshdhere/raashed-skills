@@ -28,6 +28,7 @@ Targets Claude Code by default. Set `SKILLS_AGENT` to install for another agent,
 
 | Stage | Skill | What it does | Source |
 | --- | --- | --- | --- |
+| Setup | `setup-matt-pocock-skills` | One-time repo setup: issue tracker, triage labels, domain doc layout | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Think | `grilling` | Grills me relentlessly on a plan, decision, or idea | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Think | `grill-with-docs` | Same interview, but writes ADRs and a glossary as it goes | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Plan | `to-spec` | Turns the conversation into a spec on the issue tracker | [mattpocock/skills](https://github.com/mattpocock/skills) |

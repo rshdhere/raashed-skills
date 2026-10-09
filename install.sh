@@ -9,7 +9,7 @@ EXTRA=("$@")
 
 # source repo -> space-separated skill names
 SKILLS=(
-  "mattpocock/skills|code-review diagnosing-bugs grill-with-docs grilling implement tdd to-spec to-tickets"
+  "mattpocock/skills|code-review diagnosing-bugs grill-with-docs grilling implement setup-matt-pocock-skills tdd to-spec to-tickets"
   "anthropics/skills|frontend-design"
   "vercel-labs/agent-skills|vercel-react-best-practices web-design-guidelines"
   "vercel/turborepo|turborepo"
