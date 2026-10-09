@@ -41,7 +41,9 @@ Targets Claude Code by default. Set `SKILLS_AGENT` to install for another agent,
 | Debug | `diagnosing-bugs` | Diagnosis loop for hard bugs and perf regressions | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Review | `code-review` | Standards and spec review in parallel sub-agents | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Review | `web-design-guidelines` | Audits UI against the Web Interface Guidelines | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
+| Ship | `pr` | Writes the PR body | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Ship | `commit-message` | Conventional Commits with context and attribution rules | [rshdhere/commit-message-skill](https://github.com/rshdhere/commit-message-skill) |
+| Reflect | `retro` | Runs a retrospective on a coding session | [mattpocock/skills](https://github.com/mattpocock/skills) |
 
 ## Updating the list
 
