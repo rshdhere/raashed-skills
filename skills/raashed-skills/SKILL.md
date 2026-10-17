@@ -1,6 +1,6 @@
 ---
 name: raashed-skills
-description: Install raashed's full set of agent skills (repo setup, code review, TDD, bug diagnosis, grilling, specs/tickets, PR bodies, retrospectives, commit messages, frontend design, React/Turborepo) into the current project. Use when the user says "raashed-skills", "install my skills", "set up my skills", or starts a new project and wants their usual workflow skills.
+description: Install raashed's full set of agent skills (repo setup, code review, TDD, bug diagnosis, grilling, specs/tickets, PR bodies, retrospectives, commit messages, frontend design, isometric SVG explainers, React/Turborepo, reverse engineering) into the current project. Use when the user says "raashed-skills", "install my skills", "set up my skills", or starts a new project and wants their usual workflow skills.
 ---
 
 # raashed-skills
@@ -28,5 +28,7 @@ Installs every skill in raashed's workflow in one go.
 | vercel-react-best-practices, web-design-guidelines | vercel-labs/agent-skills |
 | turborepo | vercel/turborepo |
 | commit-message | rshdhere/commit-message-skill |
+| anatomy | wheresryan22/anatomy |
+| reverse-engineer-anything | morluto/rea |
 
 To add or remove a skill, edit the `SKILLS` list in `install.sh` and this table.

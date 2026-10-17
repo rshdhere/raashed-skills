@@ -14,6 +14,8 @@ SKILLS=(
   "vercel-labs/agent-skills|vercel-react-best-practices web-design-guidelines"
   "vercel/turborepo|turborepo"
   "rshdhere/commit-message-skill|commit-message"
+  "wheresryan22/anatomy|anatomy"
+  "morluto/rea|reverse-engineer-anything"
 )
 
 for entry in "${SKILLS[@]}"; do

@@ -36,9 +36,11 @@ Targets Claude Code by default. Set `SKILLS_AGENT` to install for another agent,
 | Build | `implement` | Implements work from a spec or set of tickets | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Build | `tdd` | Test-first, red-green-refactor | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Build | `frontend-design` | Distinctive, intentional UI design | [anthropics/skills](https://github.com/anthropics/skills) |
+| Build | `anatomy` | Interactive isometric SVG figures that explain how a system works | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
 | Build | `vercel-react-best-practices` | React / Next.js performance rules | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | Build | `turborepo` | Turborepo config, pipelines, caching | [vercel/turborepo](https://github.com/vercel/turborepo) |
 | Debug | `diagnosing-bugs` | Diagnosis loop for hard bugs and perf regressions | [mattpocock/skills](https://github.com/mattpocock/skills) |
+| Debug | `reverse-engineer-anything` | Reverse engineers apps, binaries, firmware and browser targets with REA | [morluto/rea](https://github.com/morluto/rea) |
 | Review | `code-review` | Standards and spec review in parallel sub-agents | [mattpocock/skills](https://github.com/mattpocock/skills) |
 | Review | `web-design-guidelines` | Audits UI against the Web Interface Guidelines | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | Ship | `pr` | Writes the PR body | [mattpocock/skills](https://github.com/mattpocock/skills) |
