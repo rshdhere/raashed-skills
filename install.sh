@@ -24,7 +24,7 @@ for entry in "${SKILLS[@]}"; do
   args=()
   for n in $names; do args+=(--skill "$n"); done
   echo "==> $src: $names"
-  npx -y skills add "$src" "${args[@]}" --agent "$AGENT" -y "${EXTRA[@]}"
+  bunx skills add "$src" "${args[@]}" --agent "$AGENT" -y "${EXTRA[@]}"
 done
 
 echo "Done. Installed raashed-skills for $AGENT."

@@ -19,7 +19,7 @@ curl -fsSL skills.raashed.com | bash -s -- -g
 Or install just the `raashed-skills` meta skill, then ask your agent to run `/raashed-skills`. It pulls in the rest:
 
 ```bash
-npx skills add rshdhere/raashed-skills -y
+bunx skills add rshdhere/raashed-skills -y
 ```
 
 Targets Claude Code by default. Set `SKILLS_AGENT` to install for another agent, e.g. `SKILLS_AGENT=cursor`.
